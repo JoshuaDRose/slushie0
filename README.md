@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on two discord bots.
+- 🔭 I’m currently working on ~ n o t h i n g ~ .
 - 🌱 I’m currently using Javascript and Node.js
 - 📫 How to reach me: `slushie#9286` on discord
 
