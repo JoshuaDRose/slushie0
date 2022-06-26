@@ -1,10 +1,14 @@
-canvas {
-  width: 100%;
-  
-  margin: 0;
+body {
   padding: 0;
-  
-  background: #000000;
+  margin: 0 !important;
+}
 
-  z-index: -1;
+#icons {
+  
+}
+
+.center {
+  width:100%;
+  display: flex;
+  justify-content: center;
 }
