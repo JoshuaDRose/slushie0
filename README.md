@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ~ n o t h i n g ~ .
-- 🌱 I’m currently using Javascript and Node.js, and also learning C++.
+- 🔭 I’m currently working on too many things.
+- 🌱 I’m currently using Javascript and Node.js, and also learning C++ and C# for Unity.
 - 📫 Contact me on [discord](https://www.discord.com/users/542493666296594473/).
 
 
