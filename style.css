@@ -4,8 +4,16 @@ body {
   overflow-x: hidden;
 }
 
-#icons {
-  
+#conway-background {
+  position: absolute;
+  z-index: -10;
+}
+
+#icons img {
+  width: 64px;
+}
+.skip {
+  width: 80px;
 }
 
 .center {
@@ -16,9 +24,6 @@ body {
 
 /* Navbar CSS */
 nav {
-  position: absolute;
-  top: 0;
-  left: 50%;
   font-family: "Comfortaa";
   font-weight: bold;
   text-transform: uppercase;
