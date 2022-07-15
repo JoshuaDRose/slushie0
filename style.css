@@ -22,23 +22,22 @@ body {
   z-index: -1;
 }
 
+.center {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 #icons {
-  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 #icons img:not(#small-icon) {
   width: 64px;
-  display:flex;
 }
 #small-icon {
-  display: flex;
   width: 100px;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
-.center {
-  width:100%;
-  display: flex;
-  justify-content: center;
 }
