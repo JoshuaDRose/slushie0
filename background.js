@@ -54,7 +54,7 @@ class ConwayBackground {
   } // Get data of pixel at coordinate 
   
   renderGrid(){
-    let FILL_SQUARE = "#151515";
+    let FILL_SQUARE = "#1F1F1F";
     let FILL_BACKGROUND = "#101010";
     let FILL_OUTSIDE = "#DDDDDD";
     
