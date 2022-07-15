@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on too many things.
-- 🌱 I’m currently using Javascript and Node.js, and also learning C++ and C# for Unity.
+- 🌱 I’m currently using and am fluent in Node.js. I can't decide what other languages to learn, so I'll just stick to Node.
 - 📫 Contact me on [discord](https://www.discord.com/users/542493666296594473/).
 - My Website: https://slushie0.github.io/slushie0/
 
