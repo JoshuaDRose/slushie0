@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0 !important;
+  overflow-x: hidden;
 }
 
 #icons {
@@ -11,4 +12,45 @@ body {
   width:100%;
   display: flex;
   justify-content: center;
+}
+
+/* Navbar CSS */
+nav {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  font-family: "Comfortaa";
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+nav a {
+  padding: 0 15px 6px;
+  letter-spacing: 0.15em;
+  position: relative;
+  text-decoration: none;
+  color: rgba(220, 220, 220) !important;
+}
+nav a:not(.active):after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: rgba(220, 220, 220);
+  transition: width 0.4s ease 0s, left 0.4s ease 0s;
+  width: 0;
+}
+nav a:hover:after {
+  width: 80%; 
+  left: 10%; 
+}
+nav a.active {
+  color: rgb(40, 186, 222) !important;
+  border-bottom: 2px solid rgb(40, 186, 222) !important;
 }
