@@ -57,7 +57,8 @@ body {
 }
 
 #icons img:not(#small-icon) {
-  width: 64px;
+  height: 32px;
+  padding: 10px;
 }
 #small-icon {
   width: 120px;
