@@ -28,6 +28,27 @@ body {
   justify-content: center;
 }
 
+#cover {
+  padding-top: 40vh;
+  text-align: center;
+}
+
+#cover-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+#cover-subtitle {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  color: #fff;
+}
+
 #icons {
   display: flex;
   flex-direction: row;
@@ -39,5 +60,5 @@ body {
   width: 64px;
 }
 #small-icon {
-  width: 100px;
+  width: 120px;
 }
